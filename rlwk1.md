@@ -14,4 +14,5 @@ The Programming Historian and PierceHacker are perhaps many things, but they are
 Finally, as best you can, try to articulate what you feel you’ve learned this week?
 - I fell that I have learned a very valuable lesson on the imporatnce of technical writing and it's value. Because if we didnt have technical writing **Lego Land** would just be a pile of legos.
 
+
 ![litmos](https://73v3u36iopz178i0z3a33g7d-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/cybersecurity-insurance.jpg)
