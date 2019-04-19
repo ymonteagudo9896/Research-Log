@@ -1,4 +1,4 @@
-# Research-Log
+# Research Log WEEK 1
 ## **Introduction:** 
 My name is Yamill Monteagudo, I am an Army veteran. I did 8 years active service in the Army while i was in the Army I did 2 tours in Iraq. I got out of the Army in 2006 and I was then hired to work overseas in Afghanistan for 6 years. I have jumped around a lot since 2012 and in 2018 I made the decision to move to Washington to be close to my kids. I want to mayor in Cyber Security.
 
@@ -8,7 +8,7 @@ Describe and reflect on your work in setting up an account and repository on Git
 - I noticed that it's not that dificult to work *GitHub* and as long as you learn the **_correct_** combination of syntax you can accomplish what you're trying to do.
 
 The Programming Historian and PierceHacker are perhaps many things, but they are I believe technical writing projects at their core. Our reading “The Rhetorical Nature of Technical and Professional Writing” frames tech writing as fundementally rhetorical. This means that questions of purpose, audience, and medium of delivery are fundemental to the work of technical writing. Consider – who is the particular audience for The Programming Historian? For Pierce Hacker? What is the purpose of The Programming Historian? Of PierceHacker? Why do you think the writers/designers of these projects decided to deliver their work via the medium of a public website?
-- I would say that the Programming Historian is for anyone that is reading it and wants to learn more about technical writing and better understand its role in our life.
+- I would say that the Programming Historian is for anyone that wants to learn more about technical writing and better understand its role in our computer life.
 - Pierce Hacker was created to provied use was to learn and possible bertter our skills in technical writing. So once we graduate we can continue to use it in the real world.
 
 Finally, as best you can, try to articulate what you feel you’ve learned this week?
