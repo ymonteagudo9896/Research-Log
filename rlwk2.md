@@ -1,5 +1,5 @@
-Research Log WEEK 2
-________________________________________
+##Research Log WEEK 2##
+____
 #Week 2 Self-Evaluation
 
 Begin by offering a recap of what you did this week and what you think you learned by engaging the course work.
@@ -32,7 +32,8 @@ Finally, what can I as an instructor do to better support you and your work?
 *	I still feel the same as I did last week. I’m learning a lot from this class and enjoy the environment I’m in.
 
 
--- Course Outcomes
+---
+Course Outcomes
 1.  Identify the purpose of, gather appropriate and accurate information for, and write technical reports for specific audiences (Ex: resume, claim letter, instructions assignment, investigative report, proposal, and feasibility report).
 2.	Acquire the skills of Information Competency: be able to access, evaluate, and apply information appropriately.
 3.	Transform instructions into informational units set down in a numbered sequence that is in logical order, in both writing and illustrations.
