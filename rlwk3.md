@@ -1,6 +1,8 @@
+---
+
 Begin by offering a recap of what you did this week and what you think you learned by engaging the course work. Think of this as the 2 sentence summary of your research log.
 
-----
+---
 Your personal learning outcomes...we want to revisit these each week. Did you progress towards accomplishing any of these personal outcomes? (Or, have your sense of your personal outcomes shifted or changed at all now that we are a little further into the quarter? If this seems like a repeat of what you already said in your research log, approach it this way -- rate your performance in relation to a personal outcome on scale of 1 - 5. Explain your rationale for this rating.
 
 
@@ -20,11 +22,15 @@ Complete a collaborative team report. The word "report" in our outcomes is used 
 
 #### Outcome #2
 Acquire the skills of Information Competency: be able to access, evaluate, and apply information appropriately. At this point in the quarter how would you rate (or grade) you’re meeting of this outcome? What's your rationale for this rating?
-1. I can say that I’d give myself a B. From the moment I started class until now I have learned a great deal of information and gained more knowledge on the world of technical writing. As the days go by I feel more and more comfortable with the class tasks that are given and enjoy completing them. I’m still learning on different aspects of the class and I have made some mistakes but I hop that I can continue to learn mo0re as time goes by.
 
-
+1. I can say that I’d give myself a B. From the moment I started class until now I have learned a great deal of information and gained more knowledge on the world of technical writing. As the days go by I feel more and more comfortable with the class tasks that are given and enjoy completing them. I’m still learning on different aspects of the class and I have made some mistakes but I hope that I can continue to learn more as time goes by.
 
 
 What do you think would be some good next steps in working toward meeting these outcomes? What are you looking forward to in the coming week(s)?
 
+1. Continue the path that I currently on and make sure I keep giving my max effort in the class and any assignments that are given to me. I’m looking forward this coming project and seeing how my work could possibly help another student in the future.
+
+---
 Finally, what can I as an instructor do to better support you and your work?
+
+Don’t change a ***mutha__ing*** thing!
