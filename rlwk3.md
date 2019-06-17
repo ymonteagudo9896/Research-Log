@@ -1,5 +1,5 @@
 
-# Research Log WEEK 2 #
+# Research Log WEEK 3 #
 ----------
 Begin by offering a recap of what you did this week and what you think you learned by engaging the course work. Think of this as the 2 sentence summary of your research log.
 
