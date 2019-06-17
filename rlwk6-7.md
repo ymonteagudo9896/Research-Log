@@ -1,5 +1,4 @@
 # Research Log WEEK 6/7
----
 
 Over the past two weeks our work has been focused on the PierceHacker project.
 As always, I am interested in you attempting to articulate what you think you learned this week. These things could be big or small. It could be a new insight or maybe even a reminder of a skill that you already had but maybe hadn't put to use in a while.
